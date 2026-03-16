@@ -35,10 +35,7 @@ The model was evaluated on 100+ truly unseen geospatial samples:
 ├── requirements.txt           # Dependency List
 └── README.md                  # Project Documentation
 
-<img width="919" height="373" alt="stream3" src="https://github.com/user-attachments/assets/93d29a0d-3ebb-4990-b3a8-6ed5ee6cc9a2" />
-<img width="959" height="233" alt="stream2" src="https://github.com/user-attachments/assets/72299de3-953d-4a7f-b52c-ac98fe9cbbf5" />
-<img width="936" height="409" alt="stream1" src="https://github.com/user-attachments/assets/e79afd61-5e0a-4f01-8323-10ae608e54a7" />
-
+![Main Dashboard](stream1.png)
 
 Installation:
 
