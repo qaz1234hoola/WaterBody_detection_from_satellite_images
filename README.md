@@ -35,7 +35,6 @@ The model was evaluated on 100+ truly unseen geospatial samples:
 ├── requirements.txt           # Dependency List
 └── README.md                  # Project Documentation
 
-![Main Dashboard](stream1.png)
 
 Installation:
 
